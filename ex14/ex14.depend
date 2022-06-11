@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638834838 source:c:\users\kinho\desktop\marcos\estudos programacao\c\geek university\lista de exercicios 1\ex14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
